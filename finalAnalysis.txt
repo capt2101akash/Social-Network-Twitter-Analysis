@@ -1,0 +1,54 @@
+Hyderabad_1.csv_final.csv
+    sexism =  61053
+    racism =  39482
+Chandigarh_1.csv_final.csv
+    sexism =  34714
+    racism =  22054
+Indore_1.csv_final.csv
+    sexism =  37019
+    racism =  26479
+Amritsar_1.csv_final.csv
+    sexism =  54915
+    racism =  38007
+Guwahati_1.csv_final.csv
+    sexism =  38468
+    racism =  20006
+Ahemdabad_1.csv_final.csv
+    sexism =  41966
+    racism =  28783
+Lucknow_1.csv_final.csv
+    sexism =  52102
+    racism =  34063
+Srinagar_1.csv_final.csv
+    sexism =  31486
+    racism =  28649
+Ranchi_1.csv_final.csv
+    sexism =  23262
+    racism =  15549
+Varanasi_1.csv_final.csv
+    sexism =  37127
+    racism =  28341
+Jaipur_1.csv_final.csv
+    sexism =  23016
+    racism =  12856
+Delhi_1.csv_final.csv
+    sexism =  74352
+    racism =  47820
+Chennai_1.csv_final.csv
+    sexism =  53934
+    racism =  33359
+Kolkata_1.csv_final.csv
+    sexism =  132803
+    racism =  88498
+Bangalore_1.csv_final.csv
+    sexism =  68984
+    racism =  47477
+Mumbai_1.csv_final.csv
+    sexism =  77792
+    racism =  49108
+Pune_1.csv_final.csv
+    sexism =  57035
+    racism =  41838
+Kanpur_1.csv_final.csv
+    sexism =  24096
+    racism =  16520
